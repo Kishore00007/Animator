@@ -1,7 +1,7 @@
 # Animator
 
 ## Aim:
-
+To develop a animator using unity with C# prgram and move the animator.
 ## Algorithm:
 ### Step 1: 
 Download 2 crouch idle from maximo 3d. Drag it and drop it in unity asset.
